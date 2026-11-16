@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite the accompanying manuscript and this repository."
+type: software
+title: "low-light-clean-audit: clean manifests, pair audit and checkpoints for parameter-matched low-light curve enhancement"
+authors:
+  - family-names: "Liu"
+    given-names: "Xiang"
+    orcid: "https://orcid.org/0009-0004-5419-1698"
+    affiliation: "School of Physics and Optoelectronic Engineering, Harbin Engineering University, Harbin 150001, China"
+year: 2026
+license: MIT
+repository-code: "https://github.com/KK3300/low-light-clean-audit"
+keywords:
+  - low-light image enhancement
+  - benchmark integrity
+  - parameter-matched comparison
+  - curve estimation
+  - downstream detection

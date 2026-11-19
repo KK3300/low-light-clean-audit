@@ -2,7 +2,7 @@
 
 Artifacts for the manuscript:
 
-> **A Parameter-Matched Cross-Domain Study of Multi-Scale Refinement in Single-Pass Low-Light Curve Enhancement**
+> **Evaluating RGB Refinement in Curve-Based Low-Light Enhancement**
 > Xiang Liu, Harbin Engineering University
 > Manuscript prepared for *Electronics* (MDPI), 2026.
 
